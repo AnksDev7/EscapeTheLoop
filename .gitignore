@@ -1,0 +1,36 @@
+# Ignore Unity build and cache folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+MemoryCaptures/
+
+# Visual Studio / VS Code specific
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+
+# Crash and backup files
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.bak
+*.old
+*.tmp
+
+# Unity-generated meta and cache files
+sysinfo.txt
+
+# Ignore auto-generated packages
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Mac and system files
+.DS_Store
